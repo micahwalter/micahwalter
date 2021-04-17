@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>
-        Hi, I'm Micah Walter
+        Hi there 👋, I'm Micah Walter
       </h1>
       <p class="subtitle">Welcome to my website.</p>
       <p>More soon!</p>
