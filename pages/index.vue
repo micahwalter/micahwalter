@@ -1,10 +1,15 @@
 <template>
-  <h1>Hi there 👋</h1>
+  <div>
+      <h1>
+        Hi, I'm Micah Walter
+      </h1>
+      <p class="subtitle">Welcome to my website.</p>
+      <p>More soon!</p>
+      <hr>
+      <p>You can usually find me <a href="https://twitter.com/micahwalter">here</a>.</p>
+      <p>I also sometimes write a little newsletter <a href="https://world.hey.com/micah">here</a>.</p>
+
+
+  </div>
 </template>
-
-<script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({})
-</script>
 
