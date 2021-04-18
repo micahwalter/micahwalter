@@ -1,9 +1,24 @@
 <template>
-  <div>
+  <article>
       <h1>
-        A Little About Me
+        {{ page.title }}
       </h1>
-      <p class="subtitle">I'm not a bot.</p>
+      <p class="subtitle">{{ page.description }}</p>
       <hr>
-  </div>
+      <section>
+        <nuxt-content :document="page"/>
+      </section>
+  </article>
 </template>
+
+<script>
+  export default {
+    async asyncData({ $content }) {
+      const page = await $content("about").fetch()
+
+      return {
+        page
+      };
+    }
+  };
+</script>
