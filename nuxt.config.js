@@ -6,7 +6,11 @@ export default {
   target: 'static',
 
   generate: { 
-    fallback: '404.html' 
+    fallback: '404.html',
+    routes: [
+      '/', 
+      '/about'
+    ],
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
