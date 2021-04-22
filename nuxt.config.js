@@ -9,7 +9,8 @@ export default {
     fallback: '404.html',
     routes: [
       '/', 
-      '/about'
+      '/about',
+      '/wwms',
     ],
   },
 
