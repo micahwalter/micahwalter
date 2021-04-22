@@ -7,4 +7,4 @@ description: A little about me.
 
 Check back soon!
 
-![](https://d22u4rb9145gzu.cloudfront.net/IMG_1933.JPG)
+![A photo of a beach in Montauck, New York](https://d22u4rb9145gzu.cloudfront.net/IMG_1933.JPG)
