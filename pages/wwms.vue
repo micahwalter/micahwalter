@@ -1,5 +1,5 @@
 <template>
-  <p v-if="$fetchState.pending">Fetching mountains...</p>
+  <p v-if="$fetchState.pending">Fetching saying...</p>
   <p v-else-if="$fetchState.error">An error occurred :(</p>
   <div v-else>
     <h1>What Would Micah Say?</h1>
