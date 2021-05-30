@@ -10,7 +10,4 @@ There's some getting used to a new place. It takes time to adapt to new surround
 
 It takes a while to get used to a new place. The sounds, the cracks and pops in the night, the water tastes different, even the air feels like another air. Eventually, I'll come to find some delight in the hum of the dishwasher and the doorbell wont make me jump. But, for now, I sort of enjoy this newness--I enjoy finding new planks to skip over as I walk across the floor. Eventually, I'll get the timing down when rounding the stairwell. I'll time it just right, plant left foot, twist around and plant right foot on the 2nd step. Soon, the sound of the subway floating by every 12 minutes will fade away, and I'll sleep just fine. Meanwhile, there's a boat outside making all kinds of racket.
 
-cheers,
-Micah
-——
 🤷‍♂️
