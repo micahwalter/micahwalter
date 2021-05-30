@@ -13,6 +13,7 @@ export default {
       '/wwms',
       '/studio',
       '/accession',
+      '/meditations-in-a-new-home',
     ],
   },
 
