@@ -56,6 +56,10 @@ body {
     counter-reset: sidenote-counter;
 }
 
+.nuxt-content p {
+    width: 55%;
+}
+  
 h1 {
     font-weight: 400;
     margin-top: 4rem;
@@ -395,6 +399,10 @@ label.margin-toggle:not(.sidenote-number) {
         width: 84%;
         padding-left: 8%;
         padding-right: 8%;
+    }
+
+    .nuxt-content p {
+        width: 100%;
     }
 
     hr,
