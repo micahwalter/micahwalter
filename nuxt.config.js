@@ -31,7 +31,7 @@ export default {
         name: 'description', 
         content: 'Art, technology, design, work, photography, and writing.' 
       },
-      { property: "og:site_name", content: "I Love Painting" },
+      { property: "og:site_name", content: "Micah Walter" },
       { hid: "og:type", property: "og:type", content: "website" },
       {
         hid: "og:url",
