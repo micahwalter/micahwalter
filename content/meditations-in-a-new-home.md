@@ -1,7 +1,8 @@
 ---
 title: Meditations in a new home
 description: Just a thought.
-date: 2021-04-20
+createdAt: 2021-04-20
+image: https://media.micahwalter.com/IMG_6757.jpg
 ---
 
 ![A view from my new bedroom window in Port Washington, New York](https://media.micahwalter.com/IMG_6757.jpg)
