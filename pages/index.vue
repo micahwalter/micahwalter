@@ -32,9 +32,9 @@ export default {
     meta() {
       const metaData = {
         type: 'article',
-        title: this.article.title,
-        description: this.article.description,
-        url: `${global.siteUrl}/${this.$route.params.slug}`,
+        title: global.siteTitle,
+        description: global.siteDesc,
+        url: global.siteUrl,
         mainImage: this.article.image,
       };
       return getSiteMeta(metaData);
@@ -42,7 +42,7 @@ export default {
   },
   head() {
     return {
-      title: global.author + ' | ' + this.article.title,
+      title: global.author,
       meta: [
         ...this.meta,
         {
@@ -69,7 +69,7 @@ export default {
         {
           hid: 'canonical',
           rel: 'canonical',
-          href: `${global.siteUrl}/${this.$route.params.slug}`,
+          href: `${global.siteUrl}`,
         },
       ],
     };

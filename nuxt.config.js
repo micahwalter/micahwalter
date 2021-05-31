@@ -1,3 +1,6 @@
+import getSiteMeta from './utils/getSiteMeta';
+const meta = getSiteMeta();
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
@@ -16,7 +19,7 @@ export default {
       '/meditations-in-a-new-home',
     ],
   },
-
+  
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Micah Walter',
@@ -24,68 +27,31 @@ export default {
       lang: 'en'
     },
     meta: [
+      ...meta,
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { 
-        hid: 'description', 
-        name: 'description', 
-        content: 'Art, technology, design, work, photography, and writing.' 
-      },
-      { property: "og:site_name", content: "Micah Walter" },
-      { hid: "og:type", property: "og:type", content: "website" },
       {
-        hid: "og:url",
-        property: "og:url",
-        content: "https://www.micahwalter.com",
+        hid: 'description',
+        name: 'description',
+        content: global.siteDesc || '',
       },
+      { property: 'og:site_name', content: global.siteName || '' },
       {
-        hid: "og:title",
-        property: "og:title",
-        content: "Micah Walter",
+        hid: 'description',
+        name: 'description',
+        content: global.siteDesc || '',
       },
-      {
-        hid: "og:description",
-        property: "og:description",
-        content: "Art, technology, design, work, photography, and writing.",
-      },
-      {
-        hid: "og:image",
-        property: "og:image",
-        content: "https://media.micahwalter.com/IMG_1933.JPG",
-      },
-      { property: "og:image:width", content: "1200" },
-      { property: "og:image:height", content: "900" },
-      { name: "twitter:site", content: "@micahwalter" },
-      { name: "twitter:card", content: "summary_large_image" },
-      {
-        hid: "twitter:url",
-        name: "twitter:url",
-        content: "https://www.micahwalter.com",
-      },
-      {
-        hid: "twitter:title",
-        name: "twitter:title",
-        content: "Micah Walter",
-      },
-      {
-        hid: "twitter:description",
-        name: "twitter:description",
-        content: "Art, technology, design, work, photography, and writing.",
-      },
-      {
-        hid: "twitter:image",
-        name: "twitter:image",
-        content: "https://media.micahwalter.com/IMG_1933.JPG",
-      },
+      { property: 'og:image:width', content: '740' },
+      { property: 'og:image:height', content: '300' },
+      { name: 'twitter:site', content: global.siteName || '' },
+      { name: 'twitter:card', content: 'summary_large_image' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ],
-    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
-        hid: "canonical",
-        rel: "canonical",
-        href: "https://www.micahwalter.com",
+        hid: 'canonical',
+        rel: 'canonical',
+        href: global.siteUrl,
       },
     ],
     script: [
