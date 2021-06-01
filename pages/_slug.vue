@@ -8,6 +8,8 @@
       <section>
         <nuxt-content :document="article"/>
       </section>
+      <hr>
+      <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> 
   </article>
 </template>
 
