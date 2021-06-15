@@ -10,6 +10,12 @@
       </section>
       <hr>
       <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> 
+      <hr>
+      <h3 v-if="article.backlinks.length > 0">Backlinks</h3>
+      <li v-for="backlink of article.backlinks" :key="backlink.id">
+        <NuxtLink :to="`/${backlink.slug}`">{{ backlink.title }}</NuxtLink> - {{ backlink.description }}
+      </li>
+
   </article>
 </template>
 
@@ -25,6 +31,18 @@ export default {
       .catch(err => {
         error({ statusCode: 404, message: "Page not found" });
       });
+
+    const searchString = '/' + slug
+    
+    const backlinks = await $content("/")
+      .where({
+        'text': {$contains: searchString},
+        'slug': {$ne: 'index'}
+      })
+      //.search('text', searchString)
+      .fetch()  
+
+    article['backlinks'] = backlinks
 
     return {
       article
