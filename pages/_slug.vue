@@ -37,12 +37,16 @@ export default {
     const backlinks = await $content("/")
       .where({
         'text': {$contains: searchString},
-        'slug': {$ne: 'index'}
+        'slug': {$ne: 'index'},
       })
-      //.search('text', searchString)
-      .fetch()  
+      .fetch()
+      .catch(err => {
+        error({ statusCode: 404, message: "Page not found" });
+      });  
 
-    article['backlinks'] = backlinks
+    if (typeof article !== 'undefined') {
+      article['backlinks'] = backlinks
+    }
 
     return {
       article
