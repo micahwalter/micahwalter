@@ -8,7 +8,3 @@ description: Welcome to my website.
 You can usually find me [here](https://twitter.com/micahwalter).
 
 Here's a little [about](/about) me. And be sure to check out "[What Would Micah Say?](/wwms)"
-
-## Recent
-
-[Meditations in a new home](/meditations-in-a-new-home)

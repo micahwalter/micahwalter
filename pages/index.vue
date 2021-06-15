@@ -8,6 +8,10 @@
       <section>
         <nuxt-content :document="article"/>
       </section>
+      <h2 v-if="article.recents.length > 0">Recently Updated</h2>
+      <li v-for="recent of article.recents" :key="recent.id">
+        <NuxtLink :to="`/${recent.slug}`">{{ recent.title }}</NuxtLink> - {{ recent.description }}
+      </li>
   </article>
 </template>
 
@@ -24,6 +28,18 @@ export default {
         error({ statusCode: 404, message: "Page not found" });
       });
 
+    const recents = await $content("/")
+      .only(['title', 'updatedAt', 'date', 'description', 'slug'])
+      .sortBy('updatedAt', 'desc')
+      .limit(5)
+      .fetch()
+      .catch(err => {
+        error({ statusCode: 404, message: "Page not found" });
+      });  
+
+    if (typeof article !== 'undefined') {
+      article['recents'] = recents
+    }
     return {
       article
     };
