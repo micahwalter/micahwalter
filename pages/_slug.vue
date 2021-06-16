@@ -32,7 +32,7 @@ export default {
         error({ statusCode: 404, message: "Page not found" });
       });
 
-    const searchString = '/' + slug
+    const searchString = '(/' + slug
     
     const backlinks = await $content("/")
       .where({
