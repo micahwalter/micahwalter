@@ -9,7 +9,7 @@
         <nuxt-content :document="article"/>
       </section>
       <hr>
-      <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> | <nuxt-link to="/archives">Archives</nuxt-link>
+      <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> | <nuxt-link to="/archives">Archives</nuxt-link> | <a :href="`https://github.com/micahwalter/micahwalter/blob/main/content/${article.slug}.md`">Edit on GitHub</a>
       <hr>
       <h2 v-if="article.backlinks.length > 0">Backlinks</h2>
       <li v-for="backlink of article.backlinks" :key="backlink.id">
