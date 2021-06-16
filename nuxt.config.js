@@ -14,6 +14,7 @@ export default {
       '/', 
       '/about',
       '/wwms',
+      '/archives',
       '/studio',
       '/accession',
     ],
