@@ -2,6 +2,7 @@
 title: Meditations in a new home
 description: Just a thought.
 createdAt: 2021-04-20
+updatedAt: 2021-04-20
 image: https://media.micahwalter.com/IMG_6757.jpg
 ---
 

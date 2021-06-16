@@ -1,6 +1,8 @@
 ---
 title: Eventually
 description: Just a note.
+createdAt: 2021-06-14
+updatedAt: 2021-06-15
 ---
 
 Eventually, I'll figure this out.
