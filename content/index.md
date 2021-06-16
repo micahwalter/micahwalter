@@ -5,7 +5,7 @@ createdAt: 2021-04-01
 updatedAt: 2021-06-16
 ---
 
-You can usually find me <a href="https://twitter.com/micahwalter">here</a>.</p>
+You can usually find me [here](https://twitter.com/micahwalter).
 
 Here's a little [about](/about) me.
 
