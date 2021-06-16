@@ -10,6 +10,9 @@
           <button @click="$fetch">Refresh</button>
         </div>
       </section>
+      <hr>
+      <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> | <nuxt-link to="/archives">Archives</nuxt-link>
+      <hr>
   </article>
 </template>
 
