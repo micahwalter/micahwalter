@@ -11,11 +11,15 @@
       <hr>
       <nuxt-link to="/">Home</nuxt-link> | <nuxt-link to="/about">About</nuxt-link> 
       <hr>
-      <h3 v-if="article.backlinks.length > 0">Backlinks</h3>
+      <h2 v-if="article.backlinks.length > 0">Backlinks</h2>
       <li v-for="backlink of article.backlinks" :key="backlink.id">
         <NuxtLink :to="`/${backlink.slug}`">{{ backlink.title }}</NuxtLink> - {{ backlink.description }}
       </li>
 
+      <h2 v-if="article.recents.length > 0">Recently Updated</h2>
+      <li v-for="recent of article.recents" :key="recent.id">
+        <NuxtLink :to="`/${recent.slug}`">{{ recent.title }}</NuxtLink> - {{ recent.description }}
+      </li>
   </article>
 </template>
 
@@ -46,6 +50,19 @@ export default {
 
     if (typeof article !== 'undefined') {
       article['backlinks'] = backlinks
+    }
+
+    const recents = await $content("/")
+      .only(['title', 'updatedAt', 'date', 'description', 'slug'])
+      .sortBy('updatedAt', 'desc')
+      .limit(5)
+      .fetch()
+      .catch(err => {
+        error({ statusCode: 404, message: "Page not found" });
+      });  
+
+    if (typeof article !== 'undefined') {
+      article['recents'] = recents
     }
 
     return {
