@@ -11,7 +11,7 @@ updatedAt: 2021-06-16
 
 ## Relevant to me
 
-I've really been enjoying using Amplify. This whole site runs on it and I've done some further experiments with some of the backend features I mentioed above. This site is only using the frontend features of Amplify, but it means all my code is hosted out on the edge via [AWS CloudFront](/aws-cloudfront).
+I've really been enjoying using Amplify. This whole site runs on it and I've done some further experiments with some of the backend features I mentioned above. This site is only using the frontend features of Amplify, but it means all my code is hosted out on the edge via [AWS CloudFront](/aws-cloudfront).
 
 ## Integrations
 
