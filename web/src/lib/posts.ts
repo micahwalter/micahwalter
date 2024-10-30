@@ -31,7 +31,11 @@ export async function getPost(slug: string): Promise<Post | null> {
       content: processedContent.toString(),
       excerpt: data.excerpt
     }
-  } catch (e) {
+  } catch (error) {
+    // Log the error in development
+    if (process.env.NODE_ENV === 'development') {
+      console.error(`Error loading post ${slug}:`, error)
+    }
     return null
   }
 }
