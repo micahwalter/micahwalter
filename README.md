@@ -1,6 +1,6 @@
 # Hi, I'm Micah Walter 👋
 
-I'm a software developer passionate about building interesting things.
+I'm a solutions architect passionate about building interesting things.
 
 ## Recent Activity
 
