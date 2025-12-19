@@ -28,6 +28,7 @@ jobs:
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BLOG_FEED_URL: ${{ vars.BLOG_FEED_URL }}
         run: python build_readme.py
 
       - name: Commit and push if changed
