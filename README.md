@@ -7,12 +7,12 @@ I'm a solutions architect passionate about building interesting things.
 <!-- recent_activity starts -->
 - Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
 - Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
+- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
 - Created branch in [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
 - Pushed to [go-micah/hello](https://github.com/go-micah/hello) - *Nov 29, 2025*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Nov 28, 2025*
 - Pushed to [go-micah/.github](https://github.com/go-micah/.github) - *Nov 27, 2025*
 - Pushed to [go-micah/.github](https://github.com/go-micah/.github) - *Nov 27, 2025*
-- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Nov 27, 2025*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
@@ -20,7 +20,7 @@ I'm a solutions architect passionate about building interesting things.
 <!-- recent_posts starts -->
 - [Crushing my code with Crush](https://www.micahwalter.com/2025/11/crushing-my-code-with-crush/)
 - [Sometimes I forget I have a blog](https://www.micahwalter.com/2025/11/sometimes-i-forget-i-have-a-blog/)
-- [Trying out Claude's Research Mode](https://www.micahwalter.com/2025/06/trying-out-claudes-research-mode/)
+- [Trying out Claude’s Research Mode](https://www.micahwalter.com/2025/06/trying-out-claudes-research-mode/)
 - [AWS Machine Learning – Harness the power of MCP servers with Amazon Bedrock Agents](https://www.micahwalter.com/2025/04/aws-machine-learning-harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
 - [Amazon AGI – Introducing Nova Act](https://www.micahwalter.com/2025/04/amazon-agi-introducing-nova-act/)
 <!-- recent_posts ends -->
@@ -28,7 +28,11 @@ I'm a solutions architect passionate about building interesting things.
 ## AWS News Blog Contributions
 
 <!-- aws_posts starts -->
-*No recent AWS blog posts*
+- [AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training](https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/)
+- [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
+- [Simplify IAM policy creation with IAM Policy Autopilot, a new open source MCP server for builders](https://aws.amazon.com/blogs/aws/simplify-iam-policy-creation-with-iam-policy-autopilot-a-new-open-source-mcp-server-for-builders/)
+- [Amazon Route 53 launches Accelerated recovery for managing public DNS records](https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/)
+- [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/)
 <!-- aws_posts ends -->
 
 ## Featured Projects
