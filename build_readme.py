@@ -18,6 +18,7 @@ from dateutil import parser as date_parser
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 GITHUB_USERNAME = 'micahwalter'
 BLOG_FEED_URL = os.environ.get('BLOG_FEED_URL', '')  # Set this to your blog's RSS/Atom feed
+AWS_BLOG_FEED_URL = os.environ.get('AWS_BLOG_FEED_URL', '')  # Set this to AWS News Blog author feed
 README_PATH = 'README.md'
 
 
@@ -107,6 +108,31 @@ def fetch_blog_posts() -> str:
     except Exception as e:
         print(f"Error fetching blog posts: {e}")
         return "*Unable to fetch blog posts*"
+
+
+def fetch_aws_blog_posts() -> str:
+    """Fetch recent AWS News Blog posts from RSS/Atom feed"""
+    if not AWS_BLOG_FEED_URL:
+        return "*AWS blog feed URL not configured*"
+
+    try:
+        feed = feedparser.parse(AWS_BLOG_FEED_URL)
+        entries = feed.entries[:5]
+
+        if not entries:
+            return "*No recent AWS blog posts*"
+
+        posts = []
+        for entry in entries:
+            title = entry.get('title', 'Untitled')
+            link = entry.get('link', '#')
+            posts.append(f"- [{title}]({link})")
+
+        return '\n'.join(posts)
+
+    except Exception as e:
+        print(f"Error fetching AWS blog posts: {e}")
+        return "*Unable to fetch AWS blog posts*"
 
 
 def graphql_query(query: str) -> Dict[str, Any]:
@@ -274,6 +300,9 @@ def main():
     print("Fetching blog posts...")
     blog_posts = fetch_blog_posts()
 
+    print("Fetching AWS blog posts...")
+    aws_blog_posts = fetch_aws_blog_posts()
+
     print("Fetching featured projects...")
     featured_projects = fetch_featured_projects()
 
@@ -283,6 +312,7 @@ def main():
     # Replace content
     readme_content = replace_chunk(readme_content, 'recent_activity', activity)
     readme_content = replace_chunk(readme_content, 'recent_posts', blog_posts)
+    readme_content = replace_chunk(readme_content, 'aws_posts', aws_blog_posts)
     readme_content = replace_chunk(readme_content, 'featured_projects', featured_projects)
     readme_content = replace_chunk(readme_content, 'recent_releases', releases)
 

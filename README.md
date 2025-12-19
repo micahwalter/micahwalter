@@ -20,10 +20,16 @@ I'm a solutions architect passionate about building interesting things.
 <!-- recent_posts starts -->
 - [Crushing my code with Crush](https://www.micahwalter.com/2025/11/crushing-my-code-with-crush/)
 - [Sometimes I forget I have a blog](https://www.micahwalter.com/2025/11/sometimes-i-forget-i-have-a-blog/)
-- [Trying out Claude’s Research Mode](https://www.micahwalter.com/2025/06/trying-out-claudes-research-mode/)
+- [Trying out Claude's Research Mode](https://www.micahwalter.com/2025/06/trying-out-claudes-research-mode/)
 - [AWS Machine Learning – Harness the power of MCP servers with Amazon Bedrock Agents](https://www.micahwalter.com/2025/04/aws-machine-learning-harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
 - [Amazon AGI – Introducing Nova Act](https://www.micahwalter.com/2025/04/amazon-agi-introducing-nova-act/)
 <!-- recent_posts ends -->
+
+## AWS News Blog Contributions
+
+<!-- aws_posts starts -->
+*No recent AWS blog posts*
+<!-- aws_posts ends -->
 
 ## Featured Projects
 
