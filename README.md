@@ -6,12 +6,12 @@ I'm a solutions architect passionate about building interesting things.
 
 <!-- recent_activity starts -->
 - Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
+- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
 - Created branch in [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
 - Pushed to [go-micah/hello](https://github.com/go-micah/hello) - *Nov 29, 2025*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Nov 28, 2025*
 - Pushed to [go-micah/.github](https://github.com/go-micah/.github) - *Nov 27, 2025*
 - Pushed to [go-micah/.github](https://github.com/go-micah/.github) - *Nov 27, 2025*
-- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Nov 27, 2025*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Nov 27, 2025*
 <!-- recent_activity ends -->
 
