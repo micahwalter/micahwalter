@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 24, 2025*
-- Opened issue [#1685](https://github.com/charmbracelet/crush/issues/1685) in charmbracelet/crush - *Dec 20, 2025*
-- Opened issue [#106](https://github.com/charmbracelet/fantasy/issues/106) in charmbracelet/fantasy - *Dec 19, 2025*
-- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
-- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
-- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
-- Created branch in [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Dec 19, 2025*
-- Pushed to [go-micah/hello](https://github.com/go-micah/hello) - *Nov 29, 2025*
+- Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
+- Merged pull request [#2](https://github.com/micahwalter/sketches/pull/2) in micahwalter/sketches - *Dec 28, 2025*
+- Opened pull request [#2](https://github.com/micahwalter/sketches/pull/2) in micahwalter/sketches - *Dec 28, 2025*
+- Created branch in [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
+- Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
+- Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 27, 2025*
+- Merged pull request [#1](https://github.com/micahwalter/sketches/pull/1) in micahwalter/sketches - *Dec 27, 2025*
+- Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 27, 2025*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
