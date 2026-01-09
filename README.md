@@ -5,13 +5,13 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - *Jan 09, 2026*
 - Merged pull request [#4](https://github.com/micahwalter/sketches/pull/4) in micahwalter/sketches - *Dec 28, 2025*
 - Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
 - Opened pull request [#4](https://github.com/micahwalter/sketches/pull/4) in micahwalter/sketches - *Dec 28, 2025*
 - Created branch in [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
 - Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
 - Merged pull request [#3](https://github.com/micahwalter/sketches/pull/3) in micahwalter/sketches - *Dec 28, 2025*
-- Opened pull request [#3](https://github.com/micahwalter/sketches/pull/3) in micahwalter/sketches - *Dec 28, 2025*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
