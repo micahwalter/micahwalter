@@ -5,11 +5,11 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Opened pull request [#117](https://github.com/charmbracelet/fantasy/pull/117) in charmbracelet/fantasy - *Jan 16, 2026*
+- Opened pull request [#155](https://github.com/charmbracelet/catwalk/pull/155) in charmbracelet/catwalk - *Jan 16, 2026*
+- Created branch in [micahwalter/fantasy](https://github.com/micahwalter/fantasy) - *Jan 16, 2026*
+- Created branch in [micahwalter/catwalk](https://github.com/micahwalter/catwalk) - *Jan 16, 2026*
 - Starred [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - *Jan 09, 2026*
-- Merged pull request [#4](https://github.com/micahwalter/sketches/pull/4) in micahwalter/sketches - *Dec 28, 2025*
-- Pushed to [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
-- Opened pull request [#4](https://github.com/micahwalter/sketches/pull/4) in micahwalter/sketches - *Dec 28, 2025*
-- Created branch in [micahwalter/sketches](https://github.com/micahwalter/sketches) - *Dec 28, 2025*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
