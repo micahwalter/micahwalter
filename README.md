@@ -10,7 +10,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/catwalk](https://github.com/micahwalter/catwalk) - *Jan 22, 2026*
 - Pushed to [micahwalter/fantasy](https://github.com/micahwalter/fantasy) - *Jan 22, 2026*
 - Pushed to [micahwalter/crush](https://github.com/micahwalter/crush) - *Jan 22, 2026*
-- Opened pull request [#117](https://github.com/charmbracelet/fantasy/pull/117) in charmbracelet/fantasy - *Jan 16, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
