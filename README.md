@@ -25,11 +25,11 @@ I'm a solutions architect passionate about building interesting things.
 ## AWS News Blog Contributions
 
 <!-- aws_posts starts -->
+- [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/)
 - [AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training](https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/)
 - [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
 - [Simplify IAM policy creation with IAM Policy Autopilot, a new open source MCP server for builders](https://aws.amazon.com/blogs/aws/simplify-iam-policy-creation-with-iam-policy-autopilot-a-new-open-source-mcp-server-for-builders/)
 - [Amazon Route 53 launches Accelerated recovery for managing public DNS records](https://aws.amazon.com/blogs/aws/amazon-route-53-launches-accelerated-recovery-for-managing-public-dns-records/)
-- [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/)
 <!-- aws_posts ends -->
 
 ## Featured Projects
