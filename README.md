@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Closed issue [#78](https://github.com/chat-cli/chat-cli/issues/78) in chat-cli/chat-cli - *Feb 03, 2026*
 - Opened pull request [#1944](https://github.com/charmbracelet/crush/pull/1944) in charmbracelet/crush - *Jan 22, 2026*
 - Created branch in [micahwalter/crush](https://github.com/micahwalter/crush) - *Jan 22, 2026*
 - Pushed to [micahwalter/catwalk](https://github.com/micahwalter/catwalk) - *Jan 22, 2026*
