@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 09, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Created branch in [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Merged pull request [#1944](https://github.com/charmbracelet/crush/pull/1944) in charmbracelet/crush - *Feb 05, 2026*
-- Closed issue [#78](https://github.com/chat-cli/chat-cli/issues/78) in chat-cli/chat-cli - *Feb 03, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
