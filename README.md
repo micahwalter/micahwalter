@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 10, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 09, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 - Pushed to [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
-- Created branch in [micahwalter/dotfiles](https://github.com/micahwalter/dotfiles) - *Feb 08, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
