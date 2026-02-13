@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Merged pull request [#2](https://github.com/micahwalter/micahwalter-www/pull/2) in micahwalter/micahwalter-www - *Feb 12, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
-- Opened pull request [#2](https://github.com/micahwalter/micahwalter-www/pull/2) in micahwalter/micahwalter-www - *Feb 12, 2026*
-- Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
-- Merged pull request [#1](https://github.com/micahwalter/micahwalter-www/pull/1) in micahwalter/micahwalter-www - *Feb 12, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
-- Opened pull request [#1](https://github.com/micahwalter/micahwalter-www/pull/1) in micahwalter/micahwalter-www - *Feb 12, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 12, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
