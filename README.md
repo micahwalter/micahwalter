@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 14, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 13, 2026*
-- Merged pull request [#5](https://github.com/micahwalter/micahwalter-www/pull/5) in micahwalter/micahwalter-www - *Feb 13, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
