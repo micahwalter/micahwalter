@@ -7,22 +7,18 @@ I'm a solutions architect passionate about building interesting things.
 <!-- recent_activity starts -->
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 05, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 05, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 18, 2026*
-- Merged pull request [#6](https://github.com/micahwalter/micahwalter-www/pull/6) in micahwalter/micahwalter-www - *Feb 18, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 18, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 18, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Feb 18, 2026*
-- Opened pull request [#6](https://github.com/micahwalter/micahwalter-www/pull/6) in micahwalter/micahwalter-www - *Feb 18, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 05, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 05, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 05, 2026*
+- Opened issue [#15](https://github.com/micahwalter/micahwalter-www/issues/15) in micahwalter/micahwalter-www - *Mar 05, 2026*
+- Opened issue [#14](https://github.com/micahwalter/micahwalter-www/issues/14) in micahwalter/micahwalter-www - *Mar 05, 2026*
+- Opened issue [#13](https://github.com/micahwalter/micahwalter-www/issues/13) in micahwalter/micahwalter-www - *Mar 05, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
 
 <!-- recent_posts starts -->
-- [Crushing my code with Crush](https://www.micahwalter.com/2025/11/crushing-my-code-with-crush/)
-- [Sometimes I forget I have a blog](https://www.micahwalter.com/2025/11/sometimes-i-forget-i-have-a-blog/)
-- [Trying out Claude’s Research Mode](https://www.micahwalter.com/2025/06/trying-out-claudes-research-mode/)
-- [AWS Machine Learning – Harness the power of MCP servers with Amazon Bedrock Agents](https://www.micahwalter.com/2025/04/aws-machine-learning-harness-the-power-of-mcp-servers-with-amazon-bedrock-agents/)
-- [Amazon AGI – Introducing Nova Act](https://www.micahwalter.com/2025/04/amazon-agi-introducing-nova-act/)
+*No recent blog posts*
 <!-- recent_posts ends -->
 
 ## AWS News Blog Contributions
