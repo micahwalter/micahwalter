@@ -5,12 +5,12 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Pushed to [micahwalter/crush](https://github.com/micahwalter/crush) - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
-- Merged pull request [#46](https://github.com/micahwalter/micahwalter-www/pull/46) in micahwalter/micahwalter-www - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
-- Opened pull request [#46](https://github.com/micahwalter/micahwalter-www/pull/46) in micahwalter/micahwalter-www - *Mar 17, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 17, 2026*
 <!-- recent_activity ends -->
