@@ -37,7 +37,7 @@ I'm a solutions architect passionate about building interesting things.
 ### [micahwalter-www](https://github.com/micahwalter/micahwalter-www)
 www
 
-**Language**: MDX | **Stars**: 0
+**Language**: MDX | **Stars**: 1
 <!-- featured_projects ends -->
 
 ## Recent Releases
