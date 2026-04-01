@@ -5,13 +5,13 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - *Mar 31, 2026*
 - Opened issue [#59](https://github.com/micahwalter/micahwalter-www/issues/59) in micahwalter/micahwalter-www - *Mar 29, 2026*
 - Merged pull request [#58](https://github.com/micahwalter/micahwalter-www/pull/58) in micahwalter/micahwalter-www - *Mar 29, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 29, 2026*
 - Opened pull request [#58](https://github.com/micahwalter/micahwalter-www/pull/58) in micahwalter/micahwalter-www - *Mar 29, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 29, 2026*
 - Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 29, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 20, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Mar 20, 2026*
 <!-- recent_activity ends -->
 
