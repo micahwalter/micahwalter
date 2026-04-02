@@ -24,11 +24,11 @@ I'm a solutions architect passionate about building interesting things.
 ## AWS News Blog Contributions
 
 <!-- aws_posts starts -->
+- [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/)
 - [AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/)
 - [Transform live video for mobile audiences with AWS Elemental Inference](https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/)
 - [AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/)
 - [AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training](https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/)
-- [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
 <!-- aws_posts ends -->
 
 ## Featured Projects
