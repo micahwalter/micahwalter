@@ -10,9 +10,6 @@ I'm a solutions architect passionate about building interesting things.
 - Opened pull request [#70](https://github.com/micahwalter/micahwalter-www/pull/70) in micahwalter/micahwalter-www - *Apr 27, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 27, 2026*
 - Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 27, 2026*
-- Merged pull request [#69](https://github.com/micahwalter/micahwalter-www/pull/69) in micahwalter/micahwalter-www - *Apr 21, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 21, 2026*
-- Opened pull request [#69](https://github.com/micahwalter/micahwalter-www/pull/69) in micahwalter/micahwalter-www - *Apr 21, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
