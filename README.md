@@ -40,7 +40,7 @@ www
 ## Recent Releases
 
 <!-- recent_releases starts -->
-*Unable to fetch releases*
+*No recent releases*
 <!-- recent_releases ends -->
 
 ## GitHub Stats
