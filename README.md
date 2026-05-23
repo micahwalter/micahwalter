@@ -6,13 +6,13 @@ I'm a solutions architect passionate about building interesting things.
 
 <!-- recent_activity starts -->
 - Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 23, 2026*
-- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
-- Merged pull request [#1](https://github.com/micahwalter/render-right/pull/1) in micahwalter/render-right - *May 22, 2026*
-- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
-- Opened pull request [#1](https://github.com/micahwalter/render-right/pull/1) in micahwalter/render-right - *May 22, 2026*
-- Created branch in [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
-- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
-- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
+- Closed issue [#6](https://github.com/micahwalter/render-right/issues/6) in micahwalter/render-right - *May 23, 2026*
+- Merged pull request [#15](https://github.com/micahwalter/render-right/pull/15) in micahwalter/render-right - *May 23, 2026*
+- Opened pull request [#15](https://github.com/micahwalter/render-right/pull/15) in micahwalter/render-right - *May 23, 2026*
+- Created branch in [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 23, 2026*
+- Merged pull request [#14](https://github.com/micahwalter/render-right/pull/14) in micahwalter/render-right - *May 23, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 23, 2026*
+- Closed issue [#5](https://github.com/micahwalter/render-right/issues/5) in micahwalter/render-right - *May 23, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
