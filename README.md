@@ -5,11 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 27, 2026*
-- Merged pull request [#70](https://github.com/micahwalter/micahwalter-www/pull/70) in micahwalter/micahwalter-www - *Apr 27, 2026*
-- Opened pull request [#70](https://github.com/micahwalter/micahwalter-www/pull/70) in micahwalter/micahwalter-www - *Apr 27, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 27, 2026*
-- Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Apr 27, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 23, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
+- Merged pull request [#1](https://github.com/micahwalter/render-right/pull/1) in micahwalter/render-right - *May 22, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
+- Opened pull request [#1](https://github.com/micahwalter/render-right/pull/1) in micahwalter/render-right - *May 22, 2026*
+- Created branch in [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
+- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 22, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
