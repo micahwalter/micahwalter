@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jun 22, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jun 05, 2026*
 - Merged pull request [#72](https://github.com/micahwalter/micahwalter-www/pull/72) in micahwalter/micahwalter-www - *Jun 05, 2026*
 - Opened pull request [#72](https://github.com/micahwalter/micahwalter-www/pull/72) in micahwalter/micahwalter-www - *Jun 05, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Created branch in [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jun 04, 2026*
 - Opened issue [#71](https://github.com/micahwalter/micahwalter-www/issues/71) in micahwalter/micahwalter-www - *Jun 04, 2026*
 - Merged pull request [#41](https://github.com/micahwalter/render-right/pull/41) in micahwalter/render-right - *May 25, 2026*
-- Pushed to [micahwalter/render-right](https://github.com/micahwalter/render-right) - *May 25, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
@@ -24,11 +24,11 @@ I'm a solutions architect passionate about building interesting things.
 ## AWS News Blog Contributions
 
 <!-- aws_posts starts -->
+- [Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 - [Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)](https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/)
 - [AWS Weekly Roundup: Claude Opus 4.8 on AWS, Aurora MySQL with Kiro Powers, and more (June 1, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-8-on-aws-aurora-mysql-with-kiro-powers-and-more-june-1-2026/)
 - [Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)](https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/)
 - [AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/)
-- [Announcing managed daemon support for Amazon ECS Managed Instances](https://aws.amazon.com/blogs/aws/announcing-managed-daemon-support-for-amazon-ecs-managed-instances/)
 <!-- aws_posts ends -->
 
 ## Featured Projects
