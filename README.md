@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jul 07, 2026*
-- Merged pull request [#96](https://github.com/micahwalter/micahwalter-www/pull/96) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Opened pull request [#96](https://github.com/micahwalter/micahwalter-www/pull/96) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Merged pull request [#95](https://github.com/micahwalter/micahwalter-www/pull/95) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Opened pull request [#95](https://github.com/micahwalter/micahwalter-www/pull/95) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Merged pull request [#92](https://github.com/micahwalter/micahwalter-www/pull/92) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Opened pull request [#92](https://github.com/micahwalter/micahwalter-www/pull/92) in micahwalter/micahwalter-www - *Jul 07, 2026*
-- Merged pull request [#91](https://github.com/micahwalter/micahwalter-www/pull/91) in micahwalter/micahwalter-www - *Jul 07, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
