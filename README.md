@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Opened pull request [#98](https://github.com/micahwalter/micahwalter-www/pull/98) in micahwalter/micahwalter-www - *Jul 08, 2026*
-- Opened pull request [#97](https://github.com/chat-cli/chat-cli/pull/97) in chat-cli/chat-cli - *Jul 08, 2026*
+- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Pushed to [micahwalter/catwalk](https://github.com/micahwalter/catwalk) - *Jul 08, 2026*
+- Pushed to [micahwalter/fantasy](https://github.com/micahwalter/fantasy) - *Jul 08, 2026*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
 - Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
-- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
-- Pushed to [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
+- Created branch in [chat-cli/chat-cli](https://github.com/chat-cli/chat-cli) - *Jul 08, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
