@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Merged pull request [#111](https://github.com/micahwalter/micahwalter-www/pull/111) in micahwalter/micahwalter-www - *Jul 17, 2026*
+- Opened pull request [#111](https://github.com/micahwalter/micahwalter-www/pull/111) in micahwalter/micahwalter-www - *Jul 17, 2026*
+- Merged pull request [#110](https://github.com/micahwalter/micahwalter-www/pull/110) in micahwalter/micahwalter-www - *Jul 17, 2026*
+- Opened pull request [#110](https://github.com/micahwalter/micahwalter-www/pull/110) in micahwalter/micahwalter-www - *Jul 16, 2026*
+- Opened pull request [#109](https://github.com/micahwalter/micahwalter-www/pull/109) in micahwalter/micahwalter-www - *Jul 16, 2026*
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jul 16, 2026*
-- Merged pull request [#107](https://github.com/micahwalter/micahwalter-www/pull/107) in micahwalter/micahwalter-www - *Jul 16, 2026*
-- Opened pull request [#107](https://github.com/micahwalter/micahwalter-www/pull/107) in micahwalter/micahwalter-www - *Jul 16, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jul 16, 2026*
-- Merged pull request [#106](https://github.com/micahwalter/micahwalter-www/pull/106) in micahwalter/micahwalter-www - *Jul 16, 2026*
-- Opened pull request [#106](https://github.com/micahwalter/micahwalter-www/pull/106) in micahwalter/micahwalter-www - *Jul 16, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Jul 16, 2026*
-- Merged pull request [#105](https://github.com/micahwalter/micahwalter-www/pull/105) in micahwalter/micahwalter-www - *Jul 16, 2026*
+- Merged pull request [#108](https://github.com/micahwalter/micahwalter-www/pull/108) in micahwalter/micahwalter-www - *Jul 16, 2026*
+- Opened pull request [#108](https://github.com/micahwalter/micahwalter-www/pull/108) in micahwalter/micahwalter-www - *Jul 16, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
@@ -37,7 +37,7 @@ I'm a solutions architect passionate about building interesting things.
 ### [micahwalter-www](https://github.com/micahwalter/micahwalter-www)
 www
 
-**Language**: JavaScript | **Stars**: 1
+**Language**: TypeScript | **Stars**: 1
 <!-- featured_projects ends -->
 
 ## Recent Releases
