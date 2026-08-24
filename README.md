@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 20, 2026*
-- Closed issue [#141](https://github.com/micahwalter/micahwalter-www/issues/141) in micahwalter/micahwalter-www - *Aug 20, 2026*
-- Merged pull request [#142](https://github.com/micahwalter/micahwalter-www/pull/142) in micahwalter/micahwalter-www - *Aug 20, 2026*
-- Opened pull request [#142](https://github.com/micahwalter/micahwalter-www/pull/142) in micahwalter/micahwalter-www - *Aug 20, 2026*
-- Opened issue [#141](https://github.com/micahwalter/micahwalter-www/issues/141) in micahwalter/micahwalter-www - *Aug 20, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 10, 2026*
-- Merged pull request [#140](https://github.com/micahwalter/micahwalter-www/pull/140) in micahwalter/micahwalter-www - *Aug 10, 2026*
-- Opened pull request [#140](https://github.com/micahwalter/micahwalter-www/pull/140) in micahwalter/micahwalter-www - *Aug 10, 2026*
+- Merged pull request [#146](https://github.com/micahwalter/micahwalter-www/pull/146) in micahwalter/micahwalter-www - *Aug 24, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 24, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 24, 2026*
+- Opened pull request [#146](https://github.com/micahwalter/micahwalter-www/pull/146) in micahwalter/micahwalter-www - *Aug 24, 2026*
+- Merged pull request [#145](https://github.com/micahwalter/micahwalter-www/pull/145) in micahwalter/micahwalter-www - *Aug 24, 2026*
+- Opened pull request [#145](https://github.com/micahwalter/micahwalter-www/pull/145) in micahwalter/micahwalter-www - *Aug 24, 2026*
+- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 24, 2026*
+- Closed issue [#143](https://github.com/micahwalter/micahwalter-www/issues/143) in micahwalter/micahwalter-www - *Aug 24, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
