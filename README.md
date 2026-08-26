@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Starred [basecamp/omarchy](https://github.com/basecamp/omarchy) - *Aug 26, 2026*
 - Labeled issue [#97](https://github.com/micahwalter/micahwalter-www/issues/97) in micahwalter/micahwalter-www - *Aug 24, 2026*
 - Labeled issue [#125](https://github.com/micahwalter/micahwalter-www/issues/125) in micahwalter/micahwalter-www - *Aug 24, 2026*
 - Merged pull request [#146](https://github.com/micahwalter/micahwalter-www/pull/146) in micahwalter/micahwalter-www - *Aug 24, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Aug 24, 2026*
 - Opened pull request [#146](https://github.com/micahwalter/micahwalter-www/pull/146) in micahwalter/micahwalter-www - *Aug 24, 2026*
 - Merged pull request [#145](https://github.com/micahwalter/micahwalter-www/pull/145) in micahwalter/micahwalter-www - *Aug 24, 2026*
-- Opened pull request [#145](https://github.com/micahwalter/micahwalter-www/pull/145) in micahwalter/micahwalter-www - *Aug 24, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
