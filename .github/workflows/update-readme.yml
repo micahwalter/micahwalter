@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '32 */6 * * *'  # Every 6 hours at :32 minutes
+    - cron: '32 0 * * *'  # Once daily at 12:32 AM UTC
 
 jobs:
   build:
