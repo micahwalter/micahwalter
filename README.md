@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Pushed to [micahwalter/micahwalter](https://github.com/micahwalter/micahwalter) - *Oct 01, 2026*
-- Starred [apple/container](https://github.com/apple/container) - *Sep 28, 2026*
-- Merged pull request [#155](https://github.com/micahwalter/micahwalter-www/pull/155) in micahwalter/micahwalter-www - *Sep 19, 2026*
-- Pushed to [micahwalter/micahwalter-www](https://github.com/micahwalter/micahwalter-www) - *Sep 19, 2026*
-- Opened pull request [#155](https://github.com/micahwalter/micahwalter-www/pull/155) in micahwalter/micahwalter-www - *Sep 19, 2026*
-- Starred [pierpaolo28/Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) - *Sep 15, 2026*
-- Closed issue [#147](https://github.com/micahwalter/micahwalter-www/issues/147) in micahwalter/micahwalter-www - *Sep 14, 2026*
-- Closed issue [#152](https://github.com/micahwalter/micahwalter-www/issues/152) in micahwalter/micahwalter-www - *Sep 14, 2026*
+- Closed issue [#106](https://github.com/charmbracelet/fantasy/issues/106) in charmbracelet/fantasy - *Oct 09, 2026*
+- Closed issue [#77](https://github.com/chat-cli/chat-cli/issues/77) in chat-cli/chat-cli - *Oct 09, 2026*
+- Unassigned issue [#19](https://github.com/collecting-social-photo/cosopho/issues/19) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Unassigned issue [#9](https://github.com/collecting-social-photo/cosopho/issues/9) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Unassigned issue [#25](https://github.com/collecting-social-photo/cosopho/issues/25) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Unassigned issue [#24](https://github.com/collecting-social-photo/cosopho/issues/24) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Unassigned issue [#26](https://github.com/collecting-social-photo/cosopho/issues/26) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Unassigned issue [#16](https://github.com/collecting-social-photo/cosopho/issues/16) in collecting-social-photo/cosopho - *Oct 09, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
