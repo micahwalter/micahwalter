@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - *Oct 25, 2026*
+- Closed issue [#2](https://github.com/dphiffer/alloftheplaces.xyz/issues/2) in dphiffer/alloftheplaces.xyz - *Oct 25, 2026*
+- Closed issue [#4](https://github.com/cooperhewitt/flamework/issues/4) in cooperhewitt/flamework - *Oct 25, 2026*
+- Closed issue [#3](https://github.com/cooperhewitt/flamework/issues/3) in cooperhewitt/flamework - *Oct 25, 2026*
 - Closed issue [#106](https://github.com/charmbracelet/fantasy/issues/106) in charmbracelet/fantasy - *Oct 09, 2026*
 - Closed issue [#77](https://github.com/chat-cli/chat-cli/issues/77) in chat-cli/chat-cli - *Oct 09, 2026*
 - Unassigned issue [#19](https://github.com/collecting-social-photo/cosopho/issues/19) in collecting-social-photo/cosopho - *Oct 09, 2026*
 - Unassigned issue [#9](https://github.com/collecting-social-photo/cosopho/issues/9) in collecting-social-photo/cosopho - *Oct 09, 2026*
-- Unassigned issue [#25](https://github.com/collecting-social-photo/cosopho/issues/25) in collecting-social-photo/cosopho - *Oct 09, 2026*
-- Unassigned issue [#24](https://github.com/collecting-social-photo/cosopho/issues/24) in collecting-social-photo/cosopho - *Oct 09, 2026*
-- Unassigned issue [#26](https://github.com/collecting-social-photo/cosopho/issues/26) in collecting-social-photo/cosopho - *Oct 09, 2026*
-- Unassigned issue [#16](https://github.com/collecting-social-photo/cosopho/issues/16) in collecting-social-photo/cosopho - *Oct 09, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
