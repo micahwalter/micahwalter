@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
-- Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - *Oct 25, 2026*
-- Closed issue [#2](https://github.com/dphiffer/alloftheplaces.xyz/issues/2) in dphiffer/alloftheplaces.xyz - *Oct 25, 2026*
-- Closed issue [#4](https://github.com/cooperhewitt/flamework/issues/4) in cooperhewitt/flamework - *Oct 25, 2026*
-- Closed issue [#3](https://github.com/cooperhewitt/flamework/issues/3) in cooperhewitt/flamework - *Oct 25, 2026*
-- Closed issue [#106](https://github.com/charmbracelet/fantasy/issues/106) in charmbracelet/fantasy - *Oct 09, 2026*
-- Closed issue [#77](https://github.com/chat-cli/chat-cli/issues/77) in chat-cli/chat-cli - *Oct 09, 2026*
-- Unassigned issue [#19](https://github.com/collecting-social-photo/cosopho/issues/19) in collecting-social-photo/cosopho - *Oct 09, 2026*
-- Unassigned issue [#9](https://github.com/collecting-social-photo/cosopho/issues/9) in collecting-social-photo/cosopho - *Oct 09, 2026*
+- Opened issue [#8](https://github.com/micahwalter/go-bedrock/issues/8) in micahwalter/go-bedrock - *Oct 27, 2026*
+- Closed issue [#118](https://github.com/micahwalter/chat-cli/issues/118) in micahwalter/chat-cli - *Oct 27, 2026*
+- Merged pull request [#119](https://github.com/micahwalter/chat-cli/pull/119) in micahwalter/chat-cli - *Oct 27, 2026*
+- Opened pull request [#119](https://github.com/micahwalter/chat-cli/pull/119) in micahwalter/chat-cli - *Oct 27, 2026*
+- Opened issue [#118](https://github.com/micahwalter/chat-cli/issues/118) in micahwalter/chat-cli - *Oct 27, 2026*
+- Closed issue [#116](https://github.com/micahwalter/chat-cli/issues/116) in micahwalter/chat-cli - *Oct 27, 2026*
+- Merged pull request [#117](https://github.com/micahwalter/chat-cli/pull/117) in micahwalter/chat-cli - *Oct 27, 2026*
+- Opened pull request [#117](https://github.com/micahwalter/chat-cli/pull/117) in micahwalter/chat-cli - *Oct 27, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
@@ -43,7 +43,9 @@ www
 ## Recent Releases
 
 <!-- recent_releases starts -->
-*No recent releases*
+- [v0.0.1](https://github.com/micahwalter/go-bedrock/releases/tag/v0.0.1) in [go-bedrock](https://github.com/micahwalter/go-bedrock) - *Nov 16, 2023*
+- [v0.0.1](https://github.com/micahwalter/chat-cli/releases/tag/v0.0.1) in [chat-cli](https://github.com/micahwalter/chat-cli) - *Sep 30, 2023*
+- [v0.0.1](https://github.com/micahwalter/imaging/releases/tag/v0.0.1) in [imaging](https://github.com/micahwalter/imaging) - *Feb 17, 2023*
 <!-- recent_releases ends -->
 
 ## GitHub Stats
