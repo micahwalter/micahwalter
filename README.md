@@ -5,14 +5,14 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
+- Pushed to [micahwalter/go-bedrock](https://github.com/micahwalter/go-bedrock) - *Oct 27, 2026*
+- Pushed to [micahwalter/homebrew-chat-cli](https://github.com/micahwalter/homebrew-chat-cli) - *Oct 27, 2026*
+- Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Merged pull request [#121](https://github.com/micahwalter/chat-cli/pull/121) in micahwalter/chat-cli - *Oct 27, 2026*
 - Closed issue [#120](https://github.com/micahwalter/chat-cli/issues/120) in micahwalter/chat-cli - *Oct 27, 2026*
-- Opened issue [#120](https://github.com/micahwalter/chat-cli/issues/120) in micahwalter/chat-cli - *Oct 27, 2026*
-- Opened pull request [#121](https://github.com/micahwalter/chat-cli/pull/121) in micahwalter/chat-cli - *Oct 27, 2026*
-- Closed issue [#8](https://github.com/micahwalter/go-bedrock/issues/8) in micahwalter/go-bedrock - *Oct 27, 2026*
-- Assigned issue [#8](https://github.com/micahwalter/go-bedrock/issues/8) in micahwalter/go-bedrock - *Oct 27, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
