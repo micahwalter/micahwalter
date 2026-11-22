@@ -5,6 +5,7 @@ I'm a solutions architect passionate about building interesting things.
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- Starred [awslabs/codekb](https://github.com/awslabs/codekb) - *Nov 21, 2026*
 - Opened issue [#157](https://github.com/micahwalter/micahwalter-www/issues/157) in micahwalter/micahwalter-www - *Nov 01, 2026*
 - Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Pushed to [micahwalter/go-bedrock](https://github.com/micahwalter/go-bedrock) - *Oct 27, 2026*
@@ -12,7 +13,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
-- Merged pull request [#121](https://github.com/micahwalter/chat-cli/pull/121) in micahwalter/chat-cli - *Oct 27, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
