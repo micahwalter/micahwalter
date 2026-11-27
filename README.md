@@ -12,7 +12,6 @@ I'm a solutions architect passionate about building interesting things.
 - Pushed to [micahwalter/homebrew-chat-cli](https://github.com/micahwalter/homebrew-chat-cli) - *Oct 27, 2026*
 - Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
-- Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
