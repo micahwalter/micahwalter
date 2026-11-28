@@ -9,9 +9,6 @@ I'm a solutions architect passionate about building interesting things.
 - Opened issue [#157](https://github.com/micahwalter/micahwalter-www/issues/157) in micahwalter/micahwalter-www - *Nov 01, 2026*
 - Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 - Pushed to [micahwalter/go-bedrock](https://github.com/micahwalter/go-bedrock) - *Oct 27, 2026*
-- Pushed to [micahwalter/homebrew-chat-cli](https://github.com/micahwalter/homebrew-chat-cli) - *Oct 27, 2026*
-- Pushed to [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
-- Created branch in [micahwalter/chat-cli](https://github.com/micahwalter/chat-cli) - *Oct 27, 2026*
 <!-- recent_activity ends -->
 
 ## Recent Blog Posts
